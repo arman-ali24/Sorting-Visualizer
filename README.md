@@ -1,2 +1,2 @@
 # Sorting-Visualizer
-!!
+This application is designed to help users understand various sorting algorithms through visual representation...
